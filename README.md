@@ -8,5 +8,5 @@
   <img src='https://github-readme-stats.vercel.app/api?username=HPCesia&show_icons=true' height="200px" />
 </span>
 <span>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=HPCesia&layout=compact&hide=html,xslt' height="200px" />
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=HPCesia&layout=compact&hide=html,xslt,mdx' height="200px" />
 </span>
