@@ -5,8 +5,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/HPCesia?style=flat-square&logo=github&label=GitHub%20Followers&labelColor=282c34&color=181717)](https://github.com/HPCesia/)
 
 <span>
-  <img src='https://github-readme-stats.vercel.app/api?username=HPCesia&show_icons=true' height="200px" />
+  <img src='https://github-readme-stats-green-kappa-81.vercel.app/api?username=HPCesia&show_icons=true&theme=onedark' height="200px" />
 </span>
 <span>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=HPCesia&layout=compact&hide=html,xslt,mdx' height="200px" />
+  <img src='https://github-readme-stats-green-kappa-81.vercel.app/api/top-langs/?username=HPCesia&layout=compact&theme=onedark&hide=html,xslt,mdx' height="200px" />
 </span>
