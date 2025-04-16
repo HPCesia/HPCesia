@@ -4,6 +4,8 @@
 [![Email](https://img.shields.io/badge/-me@hpcesia.com-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](mailto:me@hpcesia.com)
 [![GitHub followers](https://img.shields.io/github/followers/HPCesia?style=flat-square&logo=github&label=GitHub%20Followers&labelColor=282c34&color=181717)](https://github.com/HPCesia/)
 
+I am migrating to [Codeberg](https://codeberg.org/HPCesia), some projects on GitHub are mirrors.
+
 <span>
   <img src='https://github-readme-stats-green-kappa-81.vercel.app/api?username=HPCesia&show_icons=true&theme=onedark' height="200px" />
 </span>
